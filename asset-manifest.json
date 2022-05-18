@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chofu-aikido-map/static/css/main.6790771c.chunk.css",
+    "main.js": "/chofu-aikido-map/static/js/main.1b172de5.chunk.js",
+    "main.js.map": "/chofu-aikido-map/static/js/main.1b172de5.chunk.js.map",
+    "runtime-main.js": "/chofu-aikido-map/static/js/runtime-main.fe6a1791.js",
+    "runtime-main.js.map": "/chofu-aikido-map/static/js/runtime-main.fe6a1791.js.map",
+    "static/js/2.0b43d355.chunk.js": "/chofu-aikido-map/static/js/2.0b43d355.chunk.js",
+    "static/js/2.0b43d355.chunk.js.map": "/chofu-aikido-map/static/js/2.0b43d355.chunk.js.map",
+    "index.html": "/chofu-aikido-map/index.html",
+    "service-worker.js": "/chofu-aikido-map/service-worker.js",
+    "service-worker.js.map": "/chofu-aikido-map/service-worker.js.map",
+    "static/css/main.6790771c.chunk.css.map": "/chofu-aikido-map/static/css/main.6790771c.chunk.css.map",
+    "static/js/2.0b43d355.chunk.js.LICENSE.txt": "/chofu-aikido-map/static/js/2.0b43d355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe6a1791.js",
+    "static/js/2.0b43d355.chunk.js",
+    "static/css/main.6790771c.chunk.css",
+    "static/js/main.1b172de5.chunk.js"
+  ]
+}
